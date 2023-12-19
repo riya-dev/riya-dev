@@ -1,8 +1,15 @@
-# 👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 - 𝙸'𝚖 𝚁𝚒𝚢𝚊! <img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/white_cat_hello.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+# 👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚁𝚒𝚢𝚊! <img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/white_cat_hello.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ## 👩🏻 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎:
  - 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 @ [𝚄-𝙼𝚒𝚌𝚑𝚒𝚐𝚊𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐](https://cse.engin.umich.edu/news/)
+ - 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎 𝚘𝚏 [𝚃𝙹𝙷𝚂𝚂𝚃](https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461)
  - 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 𝚘𝚗 [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/in/riya-dev/)! [<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/linkedin.png" height="20em" align="center" alt="Follow riya-dev on LinkedIn" title="Follow riya-dev on LinkedIn"/>](https://linkedin.com/in/riya-dev)
+
+## 👩‍💻 𝙼𝚢 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜:
+- 👠 𝙵𝙸𝚃𝚃𝙴𝙳: 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚝𝚑𝚊𝚝 𝚍𝚒𝚜𝚙𝚕𝚊𝚢𝚜 𝚌𝚞𝚛𝚊𝚝𝚎𝚍 𝚏𝚊𝚜𝚑𝚒𝚘𝚗 𝚏𝚎𝚎𝚍𝚜 𝚋𝚊𝚜𝚎𝚍 𝚘𝚗 𝚞𝚜𝚎𝚛 𝚙𝚛𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 *𝙽𝚎𝚡𝚝.𝚓𝚜*, *𝚃𝚊𝚒𝚕𝚠𝚒𝚗𝚍 𝙲𝚂𝚂*, *𝚂𝚞𝚙𝚊𝚋𝚊𝚜𝚎*, 𝚊𝚗𝚍 *𝙿𝚢𝚝𝚑𝚘𝚗*'𝚜 *𝙱𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕 𝚂𝚘𝚞𝚙* 𝚕𝚒𝚋𝚛𝚊𝚛𝚢
+- 🤖 𝙼𝚢 𝙰𝙸 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗𝚌𝚕𝚞𝚍𝚎 *𝙾𝚝𝚑𝚎𝚕𝚕𝚘*, *𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝟺*, *𝚂𝚞𝚍𝚘𝚔𝚞*, *𝚃𝚒𝚌-𝚃𝚊𝚌-𝚃𝚘𝚎* 𝙶𝚊𝚖𝚎 𝚂𝚘𝚕𝚟𝚎𝚛𝚜, 𝚊𝚗𝚍 𝚖𝚘𝚛𝚎!
+- 👁️‍🗨️ 𝙼𝚢 𝙲𝚅 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗𝚌𝚕𝚞𝚍𝚎 *𝙲𝚘𝚒𝚗 𝙳𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝙸𝚍𝚎𝚗𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗*, *𝙿𝚎𝚛𝚜𝚙𝚎𝚌𝚝𝚒𝚟𝚎 𝙿𝚕𝚊𝚝𝚘𝚗𝚒𝚌 𝚂𝚘𝚕𝚒𝚍 𝚁𝚘𝚝𝚊𝚝𝚒𝚘𝚗*, *𝚂𝚖𝚊𝚕𝚕𝚎𝚜𝚝 𝚂𝚚𝚞𝚊𝚛𝚎*, *𝙲𝚊𝚗𝚗𝚢 𝙴𝚍𝚐𝚎 𝙳𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗*, 𝚊𝚗𝚍 𝚖𝚘𝚛𝚎
+- 𝙼𝚊𝚗𝚢 𝚖𝚘𝚛𝚎! (𝚊𝚕𝚕 𝚙𝚞𝚋𝚕𝚒𝚌𝚕𝚢 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚘𝚗 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋)
 
 ## 💻 𝙼𝚢 𝚂𝚔𝚒𝚕𝚕𝚜:
 <p align="center">
@@ -32,4 +39,5 @@ Here are some ideas to get you started:
 Resources:
 https://github.com/tandpfun/skill-icons#readme
 https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
+https://yaytext.com/monospace/
 -->
