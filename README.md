@@ -1,8 +1,11 @@
 # 👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝚁𝚒𝚢𝚊
+<p align="center">
+    <img src="https://giphy.com/embed/gggOsc0HFC1DcTHKLO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img> <a href="https://giphy.com/stickers/cat-cartoon-kawaii-gggOsc0HFC1DcTHKLO"></a>
+</p>
 
 ## 👩🏻 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎:
  - 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 @ 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝙼𝚒𝚌𝚑𝚒𝚐𝚊𝚗 𝙲𝚘𝚕𝚕𝚎𝚐𝚎 𝚘𝚏 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐
- - [<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/linkedin.png" height="40em" align="center" alt="Follow riya-dev on LinkedIn" title="Follow riya-dev on LinkedIn"/>](https://linkedin.com/in/Raymo111)
+ - [<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/linkedin.png" height="20em" align="center" alt="Follow riya-dev on LinkedIn" title="Follow riya-dev on LinkedIn"/>](https://linkedin.com/in/riya-dev)
 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 𝚘𝚗 [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/in/riya-dev/)!
 
 ## 💻𝙼𝚢 𝚂𝚔𝚒𝚕𝚕𝚜:
