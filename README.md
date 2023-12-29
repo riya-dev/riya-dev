@@ -4,7 +4,7 @@
  - 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 @ [𝚄 𝙼𝚒𝚌𝚑𝚒𝚐𝚊𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐](https://cse.engin.umich.edu/news/)
  - 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎 𝚘𝚏 [𝚃𝚑𝚘𝚖𝚊𝚜 𝙹𝚎𝚏𝚏𝚎𝚛𝚜𝚘𝚗](https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461) 𝙷𝚒𝚐𝚑 𝚂𝚌𝚑𝚘𝚘𝚕 𝚏𝚘𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 (#𝟷 𝚒𝚗 𝙽𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚁𝚊𝚗𝚔𝚒𝚗𝚐𝚜)
  - 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 𝚘𝚗 [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/in/riya-dev/) [<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/linkedin.png" height="20em" align="center" alt="Follow riya-dev on LinkedIn" title="Follow riya-dev on LinkedIn"/>](https://linkedin.com/in/riya-dev)
- - 𝚅𝚒𝚜𝚒𝚝 𝚖𝚎 𝚊𝚝 𝚖𝚢 𝚠𝚎𝚋𝚜𝚒𝚝𝚎 [(𝚛𝚒𝚢𝚊-𝚍𝚎𝚟.𝚟𝚎𝚛𝚌𝚎𝚕.𝚊𝚙𝚙)](https://riya-dev.vercel.app/)
+ - 𝚅𝚒𝚜𝚒𝚝 𝚖𝚎 𝚊𝚝 𝚖𝚢 𝚠𝚎𝚋𝚜𝚒𝚝𝚎 [(𝚠𝚠𝚠.𝚛𝚒𝚢𝚊𝚍𝚎𝚟.𝚌𝚘𝚖)](https://www.riyadev.com/)
 <!-- 𝚂𝚑𝚘𝚘𝚝 𝚖𝚎 𝚊𝚗 [𝚎𝚖𝚊𝚒𝚕](mailto:riyadev@umich.edu) [<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/mail.png" height="20em" align="center" alt="Email riyadev@umich.edu" title="Email riyadev@umich.edu"/>](mailto:riyadev@umich.edu)-->
    
 ## 👩‍💻 𝙼𝚢 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜:
