@@ -15,7 +15,7 @@
 
 ## 💻 𝙼𝚢 𝚂𝚔𝚒𝚕𝚕𝚜:
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,cpp,java,python,mysql,javascript,html,css,fortran&perline=9" />
     <img src="https://skillicons.dev/icons?i=next,react,tailwind" />
 <!--     <img src="https://skillicons.dev/icons?i=supabase,vscode,androidstudio,eclipse" /> -->
