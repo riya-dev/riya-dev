@@ -1,7 +1,7 @@
 # 👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚁𝚒𝚢𝚊! <img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/white_cat_hello.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ## 👩🏻 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎:
- - 𝙸𝚗𝚌𝚘𝚖𝚒𝚗𝚐 𝚂𝙳𝙴 𝙸𝚗𝚝𝚎𝚛𝚗 @ 𝙰𝚖𝚊𝚣𝚘𝚗
+ - 𝚂𝙳𝙴 𝙸𝚗𝚝𝚎𝚛𝚗 @ 𝙰𝚖𝚊𝚣𝚘𝚗
  - 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 @ [𝚄 𝙼𝚒𝚌𝚑𝚒𝚐𝚊𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐](https://cse.engin.umich.edu/news/)
  - 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎 𝚘𝚏 [𝚃𝚑𝚘𝚖𝚊𝚜 𝙹𝚎𝚏𝚏𝚎𝚛𝚜𝚘𝚗](https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461) 𝙷𝚒𝚐𝚑 𝚂𝚌𝚑𝚘𝚘𝚕 𝚏𝚘𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 (#𝟷 𝚒𝚗 𝙽𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚁𝚊𝚗𝚔𝚒𝚗𝚐𝚜)
  - 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 𝚘𝚗 [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/in/riya-dev/) [<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/linkedin.png" height="20em" align="center" alt="Follow riya-dev on LinkedIn" title="Follow riya-dev on LinkedIn"/>](https://linkedin.com/in/riya-dev)
