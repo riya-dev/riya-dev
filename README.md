@@ -11,8 +11,8 @@
 - 👠 FITTED: Building a web application that dislays curated fashion feeds based on user preferences <!--𝚠𝚒𝚝𝚑 *𝙽𝚎𝚡𝚝.𝚓𝚜*, *𝚃𝚊𝚒𝚕𝚠𝚒𝚗𝚍 𝙲𝚂𝚂*, *𝚂𝚞𝚙𝚊𝚋𝚊𝚜𝚎*, 𝚊𝚗𝚍 *𝙿𝚢𝚝𝚑𝚘𝚗*'𝚜 *𝙱𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕 𝚂𝚘𝚞𝚙* 𝚕𝚒𝚋𝚛𝚊𝚛𝚢-->
 - 🤖 My AI projects include *Othello*, *Connect 4*, *Sudoku*, and *Traveling Salesman* Game Solvers, and more
 - 👁️‍🗨️ My CV projects include *Coin Identification*, *3D Platonic Solid Rotation*, *Canny Edge Detection*, and more
-- Many more (all publicly available on GitHub)
-
+- Many more
+  
 ## Skills:
 <p align="center">
   <a href="#">
