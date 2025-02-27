@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Riya! <img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/white_cat_hello.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ## About me:
- - SDE Intern @ Amazon
- - Computer Science + Statistics + Business @ [U Michigan Engineering](https://cse.engin.umich.edu/news/)
- - Graduate of [Thomas Jefferson](https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461) High School for Science and Technology (#1 in National Rankings)
+ - Prev ML @ Amazon
+ - Computer Science + Business Alum @ University of Michigan
+ - [TJHSST](https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461) High Alum (#1 in National Rankings)
  - LinkedIn: [linkedin.com/in/riya-dev](https://www.linkedin.com/in/riya-dev/) <!--[<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/linkedin.png" height="20em" align="center" alt="Follow riya-dev on LinkedIn" title="Follow riya-dev on LinkedIn"/>](https://linkedin.com/in/riya-dev) -->| Website: [riyadev.com](https://www.riyadev.com/)
 <!-- Shoot me an [email] (mailto:riyadev@umich.edu) [<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/mail.png" height="20em" align="center" alt="Email riyadev@umich.edu" title="Email riyadev@umich.edu"/>](mailto:riyadev@umich.edu)-->
    
