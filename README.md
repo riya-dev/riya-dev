@@ -22,8 +22,6 @@
   </a>
 </p>
 
-![visitors](https://vbr.wocr.tk/badge?page_id=riya-dev.riya-dev&color=C3B1E1)
-
 <!--
 Resources:
 https://github.com/tandpfun/skill-icons#readme
