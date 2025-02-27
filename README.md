@@ -3,7 +3,7 @@
 ## About me:
  - Prev ML @ Amazon
  - Computer Science + Business Alum @ University of Michigan
- - [TJHSST](https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461) High Alum (#1 in National Rankings)
+ - [TJHSST](https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461) Alum (#1 in National Rankings)
  - LinkedIn: [linkedin.com/in/riya-dev](https://www.linkedin.com/in/riya-dev/) <!--[<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/linkedin.png" height="20em" align="center" alt="Follow riya-dev on LinkedIn" title="Follow riya-dev on LinkedIn"/>](https://linkedin.com/in/riya-dev) -->| Website: [riyadev.com](https://www.riyadev.com/)
 <!-- Shoot me an [email] (mailto:riyadev@umich.edu) [<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/mail.png" height="20em" align="center" alt="Email riyadev@umich.edu" title="Email riyadev@umich.edu"/>](mailto:riyadev@umich.edu)-->
    
