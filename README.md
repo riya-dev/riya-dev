@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Riya! <img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/white_cat_hello.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ## About me:
+ - Cofounder @ Dezu
  - Prev ML @ Amazon
  - Computer Science + Business Alum @ University of Michigan
  - TJHSST Alum (#1 in National Rankings)
