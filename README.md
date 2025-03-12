@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Riya! <img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/white_cat_hello.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ## About me:
- - Cofounder @ Dezu
+ - Cofounder @ Dezu AI
  - Prev ML @ Amazon
- - University of Michigan Computer Science + Business Alum | TJHSST Alum (#1 in National Rankings)
+ - University of Michigan Computer Science + Business | TJHSST Alum (#1 in National Rankings)
  - LinkedIn: [linkedin.com/in/riya-dev](https://www.linkedin.com/in/riya-dev/) <!--[<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/linkedin.png" height="20em" align="center" alt="Follow riya-dev on LinkedIn" title="Follow riya-dev on LinkedIn"/>](https://linkedin.com/in/riya-dev) -->| Website: [riyadev.com](https://www.riyadev.com/)
 <!-- Shoot me an [email] (mailto:riyadev@umich.edu) [<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/mail.png" height="20em" align="center" alt="Email riyadev@umich.edu" title="Email riyadev@umich.edu"/>](mailto:riyadev@umich.edu)-->
    
