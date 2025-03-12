@@ -3,8 +3,7 @@
 ## About me:
  - Cofounder @ Dezu
  - Prev ML @ Amazon
- - Computer Science + Business Alum @ University of Michigan
- - TJHSST Alum (#1 in National Rankings)
+ - University of Michigan Computer Science + Business Alum | TJHSST Alum (#1 in National Rankings)
  - LinkedIn: [linkedin.com/in/riya-dev](https://www.linkedin.com/in/riya-dev/) <!--[<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/linkedin.png" height="20em" align="center" alt="Follow riya-dev on LinkedIn" title="Follow riya-dev on LinkedIn"/>](https://linkedin.com/in/riya-dev) -->| Website: [riyadev.com](https://www.riyadev.com/)
 <!-- Shoot me an [email] (mailto:riyadev@umich.edu) [<img src="https://raw.githubusercontent.com/riya-dev/riya-dev/master/media/mail.png" height="20em" align="center" alt="Email riyadev@umich.edu" title="Email riyadev@umich.edu"/>](mailto:riyadev@umich.edu)-->
    
