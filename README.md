@@ -17,7 +17,7 @@
   <a href="https://www.riyadev.com">Website</a>
 </p>
 
-<h3>🌸 GitHub Stats</h3>
+<h3>GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riya-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=rose_pine" height="150">
